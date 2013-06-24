@@ -1,5 +1,0 @@
-<body bgcolor="white">
-<br />
-<a href='http://www.jtvdev.com/e1/blank.php'><button class='pretty_button spacer small'><span class='main'>Close</span></button></a> <a href='http://www.jtvdev.com/e1/ejtvchat.php'><button class='pretty_button spacer small'><span class='main'>Refresh</span></button></a> <a href='http://www.justin.tv/chat/embed?channel=extremejtv' target='_blank'><button class='pretty_button spacer small'><span class='main'>Popout</span></button></a> <a href='http://www.jtvdev.com/e1/tagrequest.php'><button class='pretty_button spacer small'><span class='main'>Tags</span></button></a> <a href='http://www.jtvdev.com/e1/changelog.php'><button class='pretty_button spacer small'><span class='main'>News</span></button></a> <a href='http://www.jtvdev.com/e1/emotes.php'><button class='pretty_button spacer small'><span class='main'>Emotes</span></button></a>
-<iframe frameborder="0" scrolling="no" id="ExtremeJtvChat" src="http://www.twitch.tv/chat/embed?channel=extremejtv" height="400" width="450"></iframe>
-</body>

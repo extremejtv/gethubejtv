@@ -1,2 +1,0 @@
-CScript factorial_test_build.wsf
-pause
